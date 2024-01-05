@@ -2,7 +2,6 @@
 
 **I am Alluri Tarun Varma**
 
-<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fposterwa.com%2Fproducts%2Fsebastian-vettel-poster&psig=AOvVaw043y2Sr6bpI0-dpoiZMqEn&ust=1704540722081000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjV7puTxoMDFQAAAAAdAAAAABAI" width="60">
 
 - 🌱 I’m currently working as **Associate Data Scientist**
 
